@@ -6,3 +6,4 @@ modules/.vscode
 node_modules
 # Ignore .history for the xyz.local-history VSCode extension
 .history
+dist
